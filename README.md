@@ -3,6 +3,7 @@
 Video:
 
 https://www.youtube.com/shorts/xKP7Aon37iE
+https://www.thingiverse.com/thing:2151514
 
 Diagrama
 
@@ -16,4 +17,4 @@ Diagrama
 - Puente H L298N
 - Cables
 - Bateria 9v
-https://www.thingiverse.com/thing:2151514
+
