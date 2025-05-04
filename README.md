@@ -10,7 +10,6 @@ Diagrama
 
 ![image](https://user-images.githubusercontent.com/85527788/202744881-4d011201-2ed8-4c31-b86e-d0d7477933a0.png)
 
-## Componentes
 
 - Arduino Uno
 - 4 Motoreductores DC
