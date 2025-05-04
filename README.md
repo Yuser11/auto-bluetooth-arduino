@@ -13,7 +13,6 @@ Diagrama
 ## Componentes
 
 - Arduino Uno
-- Modulo Bluetooth HC-05
 - 4 Motoreductores DC
 - Puente H L298N
 - Cables
